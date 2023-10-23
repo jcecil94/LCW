@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://i.natgeofe.com/n/a2dc0e48-006d-46fd-a624-8bd12388e890/GettyImages-121837830.jpg?w=1260&h=840);
+    width: 100%;
+  height: 100vh;
+  margin: 0;
+}
+
+h1{
+    color: rgb(48, 28, 77);
+    font-size: 40px;
+    font-family: 'Cabin', sans-serif;
+  margin: 1em auto;
+  padding-top: auto;
+  text-align: center;
+  margin-bottom: 15px;
+}
+p{
+    color: rgb(40, 33, 82);
+    font-size: 32px;
+    font-family: 'Cabin', sans-serif;
+    margin: 1em auto;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px
+}
+form{
+    color:rgb(169, 198, 225);
+    font-family: 'Cabin', sans-serif;
+    border-radius: 6px;
+    background-color: rgba(46, 33, 62, 0.927) ;
+    width: auto;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 2px 2px 6px 6px;
+  
+}
+label {
+    display: block;
+    margin: 0.5rem 0;
+    font-size: 18px;
+  }
+  input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 97%;
+  min-height: 2em;
+}
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+}
+.q1{
+    font-size: 20px;
+    
+}
